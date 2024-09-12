@@ -3,7 +3,7 @@
     <project-details
       class="transform scale-90"
       :src="'src/assets/hexwood.png'"
-      :name="'Hexwood'"
+      :name="'play.Hexwood.net'"
       :description="'A free-to-play, heavily modified, RPG-like Minecraft server.'"
       :link="'https://store.hexwood.net/'"
     />
@@ -16,7 +16,7 @@
       :src="'src/assets/vue.jpg'"
       :name="'Front-End Development'"
       :description="'Reactive front-end website development using Vue.js.'"
-      :link="'https://github.com/HalfloveJAR'"
+      :link="'https://github.com/HalfloveJAR/portfolio-website'"
     />
   </section>
 </template>

@@ -1,11 +1,11 @@
 <template>
-  <a :href="link"
-    ><button
+  <a :href="link" target="_blank" rel="noopener noreferrer">
+    <button
       class="rounded border-0 h-fit px-5 py-3 font-medium text-white bg-brand-blue-1 hover:shadow-blue duration-100"
     >
       {{ name }}
-    </button></a
-  >
+    </button>
+  </a>
 </template>
 
 <script>
